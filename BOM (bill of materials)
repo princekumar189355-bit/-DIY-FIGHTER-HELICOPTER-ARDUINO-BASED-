@@ -1,0 +1,39 @@
+Bill of Materials (BOM)
+
+Project: DIY Fighter Helicopter Model (Arduino-Based)
+
+S.No| Component| Specification| Qty| Approx. Cost (₹)
+1| Arduino Uno| R3 Compatible| 1| 550
+2| L298N Motor Driver| Dual H-Bridge| 1| 180
+3| DC Motor| 3V–6V| 1| 120
+4| Red LED| 5mm| 1| 10
+5| Green LED| 5mm| 1| 10
+6| 220Ω Resistor| 1/4W| 2| 5
+7| Battery Holder| 2×18650| 1| 80
+8| 18650 Batteries| Rechargeable| 2| 300
+9| ON/OFF Switch| Mini Toggle| 1| 20
+10| Jumper Wires| Male-to-Male Pack| 1| 100
+11| Breadboard| 830 Tie Point| 1| 120
+12| Foam Board| 5mm Sheet| 2| 200
+13| Cardboard Sheet| A3 Size| 1| 30
+14| Ice Cream Sticks| Wooden| 10| 30
+15| Plastic Rotor Blades| DIY Set| 1| 100
+16| Landing Skids| Plastic/Wood| 1 Pair| 50
+17| Transparent Plastic Sheet| Cockpit Window| 1| 30
+18| Hot Glue Gun| Standard| 1| 250
+19| Glue Sticks| Pack| 1| 80
+20| USB Cable| Arduino Compatible| 1| 80
+
+Estimated Total Cost
+
+₹2,345 (Approx.)
+
+Software Used
+
+- Arduino IDE
+- GitHub
+
+Notes
+
+- Prices are approximate and may vary depending on the supplier.
+- If you already own tools like the glue gun or Arduino Uno, your total project cost will be lower.
