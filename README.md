@@ -1,4 +1,4 @@
-🚁## DIY-Fighter-Helicopter-Model (Arduino-Based)
+🚁 DIY-Fighter-Helicopter-Model (Arduino-Based)
 
 📖 Overview
 
