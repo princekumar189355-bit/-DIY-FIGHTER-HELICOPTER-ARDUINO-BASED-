@@ -1,0 +1,59 @@
+Full Pin Connections
+
+Arduino Uno → DC Motor (Using L298N Motor Driver)
+
+Arduino Uno Pin| L298N Motor Driver| Description
+D9| IN1| Motor Control Signal
+5V| VCC| Driver Logic Power
+GND| GND| Common Ground
+
+L298N → DC Motor
+
+L298N Pin| Component
+OUT1| DC Motor Terminal 1
+OUT2| DC Motor Terminal 2
+
+---
+
+Arduino Uno → LEDs
+
+Red Navigation LED
+
+Arduino Uno Pin| Component
+D6| 220Ω Resistor → Red LED (+)
+GND| Red LED (−)
+
+Green Navigation LED
+
+Arduino Uno Pin| Component
+D7| 220Ω Resistor → Green LED (+)
+GND| Green LED (−)
+
+---
+
+Power Supply
+
+Component| Connection
+Arduino 5V| L298N VCC
+Arduino GND| L298N GND
+Battery (+)| Arduino VIN or DC Jack (7–12V), or regulated 5V to the 5V pin
+Battery (−)| Arduino GND
+
+---
+
+Component Summary
+
+Component| Arduino Pin
+DC Motor (via L298N IN1)| D9
+Red LED| D6
+Green LED| D7
+L298N Logic Power| 5V
+Common Ground| GND
+
+Total Pins Used
+
+- D6 → Red LED
+- D7 → Green LED
+- D9 → DC Motor Control
+- 5V → Power
+- GND → Common Ground
