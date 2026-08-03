@@ -1,0 +1,40 @@
+                 DIY FIGHTER HELICOPTER MODEL
+                    (Arduino-Based)
+
+                     +------------------+
+                     |   Arduino UNO    |
+                     |                  |
+        D9 ----------|--------------------------+
+                     |                          |
+        D6 ----------|----220Ω-----|>|---------+
+                     |    Red LED              |
+        D7 ----------|----220Ω-----|>|---------+
+                     |   Green LED            |
+        5V ----------|------------------+------+
+                     |                  |      |
+       GND ----------|------------------+------+----------------+
+                     +------------------+                      |
+                                                             GND
+                                                               |
+                  +-------------------------------+            |
+                  | Motor Driver / NPN Transistor |------------+
+                  |                               |
+ Arduino D9 ------| IN                            |
+ 5V --------------| VCC                           |
+ GND -------------| GND                           |
+                  | OUT ---------------------- DC Motor
+                  +-------------------------------+
+                                                 |
+                                              Main Rotor
+
+Power Supply:
++5V Battery/USB ─────────► Arduino UNO
+GND ─────────────────────► Arduino GND
+
+Components:
+• Arduino Uno
+• DC Motor
+• Motor Driver (or NPN Transistor + Flyback Diode)
+• Red LED + 220Ω Resistor
+• Green LED + 220Ω Resistor
+• 5V Power Supply
