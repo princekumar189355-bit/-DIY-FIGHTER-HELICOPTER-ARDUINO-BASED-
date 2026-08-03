@@ -1,0 +1,45 @@
+How It Works
+
+1. The battery powers the Arduino Uno and the motor driver.
+
+2. When the power switch is turned ON, the Arduino starts running the uploaded program.
+
+3. The Arduino sends a control signal from Pin D9 to the L298N motor driver.
+
+4. The motor driver supplies power to the DC motor, causing the main rotor to rotate.
+
+5. At the same time, the Arduino controls the red LED (Pin D6) and green LED (Pin D7) to simulate helicopter navigation lights by blinking them in sequence.
+
+6. The helicopter remains stationary while the rotor spins and the LEDs continue blinking until the power is switched OFF.
+
+🔜 Working Sequence
+
+Power ON
+    │
+    ▼
+Battery Supplies Power
+    │
+    ▼
+Arduino Uno Starts
+    │
+    ▼
+Arduino Executes Program
+    │
+    ├──────────────► Blink Red LED
+    │
+    ├──────────────► Blink Green LED
+    │
+    ▼
+Motor Driver Receives Signal
+    │
+    ▼
+DC Motor Rotates
+    │
+    ▼
+Main Rotor Spins
+    │
+    ▼
+Project Demonstration
+    │
+    ▼
+Power OFF
