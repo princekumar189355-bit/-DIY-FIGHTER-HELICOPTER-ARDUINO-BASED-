@@ -1,0 +1,55 @@
+/*
+=========================================================
+DIY Fighter Helicopter Model (Arduino-Based)
+Author: Prince Kumar
+=========================================================
+Features:
+- Rotating Main Rotor (DC Motor)
+- Red Navigation LED
+- Green Navigation LED
+=========================================================
+*/
+
+// Pin Definitions
+const int motorPin = 9;
+const int redLED = 6;
+const int greenLED = 7;
+
+void setup() {
+
+  pinMode(motorPin, OUTPUT);
+  pinMode(redLED, OUTPUT);
+  pinMode(greenLED, OUTPUT);
+
+  digitalWrite(motorPin, LOW);
+  digitalWrite(redLED, LOW);
+  digitalWrite(greenLED, LOW);
+}
+
+void loop() {
+
+  // Turn ON Helicopter
+  digitalWrite(motorPin, HIGH);
+
+  // Navigation Lights Blink
+  digitalWrite(redLED, HIGH);
+  digitalWrite(greenLED, LOW);
+  delay(500);
+
+  digitalWrite(redLED, LOW);
+  digitalWrite(greenLED, HIGH);
+  delay(500);
+
+  // Both LEDs ON
+  digitalWrite(redLED, HIGH);
+  digitalWrite(greenLED, HIGH);
+  delay(500);
+
+  // Both LEDs OFF
+  digitalWrite(redLED, LOW);
+  digitalWrite(greenLED, LOW);
+  delay(500);
+
+  // Motor keeps spinning
+  digitalWrite(motorPin, HIGH);
+}
