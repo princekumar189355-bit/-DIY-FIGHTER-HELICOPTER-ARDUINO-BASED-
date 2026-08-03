@@ -1,0 +1,44 @@
+                 DIY FIGHTER HELICOPTER MODEL
+                    WIRING DIAGRAM
+
+                  +----------------------+
+                  |     Arduino UNO      |
+                  |                      |
+                  | D9  --------------------> IN1 (L298N)
+                  | D6  ----220Ω---------> Red LED (+)
+                  | D7  ----220Ω---------> Green LED (+)
+                  | 5V  ------------------> L298N VCC
+                  | GND ------------------> L298N GND
+                  +----------------------+
+                           |        |
+                           |        +----------------------+
+                           |                               |
+                           |                           LED (-)
+                           |                               |
+                           +---------------------------> GND
+
+               +-----------------------------+
+               |       L298N Driver          |
+               |                             |
+               | IN1 <----- Arduino D9       |
+               | VCC <----- Arduino 5V       |
+               | GND <----- Arduino GND      |
+               | OUT1 -----> DC Motor (+)    |
+               | OUT2 -----> DC Motor (-)    |
+               +-----------------------------+
+                            |
+                            |
+                       Main Rotor Motor
+
+Power Connections
+
+Battery (+) --------> Arduino VIN (or DC Jack)
+Battery (-) --------> Arduino GND
+
+Red LED:
+Arduino D6 → 220Ω Resistor → LED (+)
+LED (−) → GND
+
+Green LED:
+Arduino D7 → 220Ω Resistor → LED (+)
+LED (−) → GND
