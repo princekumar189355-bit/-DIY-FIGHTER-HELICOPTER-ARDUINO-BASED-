@@ -1,0 +1,75 @@
+                  DIY FIGHTER HELICOPTER MODEL
+                        PROJECT FLOWCHART
+
+                             ┌─────────────┐
+                             │    START    │
+                             └──────┬──────┘
+                                    │
+                                    ▼
+                     ┌─────────────────────────┐
+                     │ Collect Materials &     │
+                     │ Prepare Workspace       │
+                     └──────────┬──────────────┘
+                                │
+                                ▼
+                     ┌─────────────────────────┐
+                     │ Design Helicopter Body  │
+                     │ and Plan Components     │
+                     └──────────┬──────────────┘
+                                │
+                                ▼
+                     ┌─────────────────────────┐
+                     │ Build Frame & Install   │
+                     │ Landing Skids           │
+                     └──────────┬──────────────┘
+                                │
+                                ▼
+                     ┌─────────────────────────┐
+                     │ Mount Arduino, Motor,   │
+                     │ LEDs & Battery          │
+                     └──────────┬──────────────┘
+                                │
+                                ▼
+                     ┌─────────────────────────┐
+                     │ Complete Wiring &       │
+                     │ Circuit Connections     │
+                     └──────────┬──────────────┘
+                                │
+                                ▼
+                     ┌─────────────────────────┐
+                     │ Upload Arduino Program  │
+                     └──────────┬──────────────┘
+                                │
+                                ▼
+                  ┌────────────────────────────────┐
+                  │ System Working Correctly?      │
+                  └──────────┬───────────┬─────────┘
+                             │ Yes       │ No
+                             ▼           ▼
+              ┌────────────────────┐   Check Wiring,
+              │ Rotate DC Motor &  │   Fix Code,
+              │ Blink LEDs         │   Test Again
+              └──────────┬─────────┘
+                         │
+                         ▼
+              ┌────────────────────────┐
+              │ Final Assembly &       │
+              │ Appearance Finishing   │
+              └──────────┬─────────────┘
+                         │
+                         ▼
+              ┌────────────────────────┐
+              │ Final Testing &        │
+              │ Documentation          │
+              └──────────┬─────────────┘
+                         │
+                         ▼
+              ┌────────────────────────┐
+              │ GitHub Upload &        │
+              │ Project Presentation   │
+              └──────────┬─────────────┘
+                         │
+                         ▼
+                   ┌─────────────┐
+                   │   FINISH    │
+                   └─────────────┘
