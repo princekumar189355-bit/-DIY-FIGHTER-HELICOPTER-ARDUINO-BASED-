@@ -1,0 +1,23 @@
+Item No,Component,Specification,Quantity,Approx Cost (INR),Purchase Link
+1,Arduino Uno,R3 Compatible,1,550,https://robu.in/?s=Arduino+Uno
+2,L298N Motor Driver,Dual H-Bridge,1,180,https://robu.in/?s=L298N
+3,DC Motor,3V-6V,1,120,https://robu.in/?s=DC+Motor
+4,Red LED,5mm,1,10,https://robu.in/?s=5mm+Red+LED
+5,Green LED,5mm,1,10,https://robu.in/?s=5mm+Green+LED
+6,220 Ohm Resistor,1/4W,2,5,https://robu.in/?s=220+Ohm+Resistor
+7,Battery Holder,2x18650,1,80,https://robu.in/?s=18650+Battery+Holder
+8,18650 Battery,Rechargeable,2,300,https://robu.in/?s=18650+Battery
+9,ON/OFF Switch,Mini Toggle,1,20,https://robu.in/?s=Mini+Toggle+Switch
+10,Jumper Wires,Male-to-Male,1 Pack,100,https://robu.in/?s=Jumper+Wires
+11,Breadboard,830 Tie Point,1,120,https://robu.in/?s=Breadboard
+12,Foam Board,5mm Sheet,2,200,https://robu.in/?s=Foam+Board
+13,Cardboard Sheet,A3 Size,1,30,https://robu.in/?s=Cardboard+Sheet
+14,Ice Cream Sticks,Wooden,10,30,https://robu.in/?s=Ice+Cream+Sticks
+15,Plastic Rotor Blades,DIY Set,1,100,https://robu.in/?s=Rotor+Blades
+16,Landing Skids,Plastic/Wood,1 Pair,50,https://robu.in/?s=Landing+Skids
+17,Transparent Plastic Sheet,Cockpit Window,1,30,https://robu.in/?s=Transparent+Plastic+Sheet
+18,Hot Glue Gun,Standard,1,250,https://robu.in/?s=Hot+Glue+Gun
+19,Glue Sticks,Pack,1,80,https://robu.in/?s=Glue+Sticks
+20,USB Cable,Arduino Compatible,1,80,https://robu.in/?s=USB+Cable
+,,,,,
+Total Estimated Cost,,,,2345 INR
