@@ -1,6 +1,4 @@
-🚁 DIY Fighter Helicopter Model (Arduino-Based)
-
-"Thumbnail" (thumbnail.jpg)
+🚁## DIY-Fighter-Helicopter-Model (Arduino-Based)
 
 📖 Overview
 
