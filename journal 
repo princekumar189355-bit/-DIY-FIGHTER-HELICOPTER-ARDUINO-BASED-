@@ -1,0 +1,153 @@
+🚁 DIY Fighter Helicopter Model (Arduino-Based)
+
+Complete Project Journal
+
+Project Name: DIY Fighter Helicopter Model (Arduino-Based)
+
+Total Project Time: 29 Hours
+
+Journal Parts: 5
+
+---
+
+Part 1 – Project Planning and Design (5 Hours)
+
+Objective
+
+Research different fighter helicopter designs, prepare the project plan, select materials, and create the initial sketch.
+
+Activities Performed
+
+- Researched real fighter helicopter designs.
+- Prepared the project sketch and dimensions.
+- Selected Arduino and electronic components.
+- Listed all required materials and tools.
+- Planned the project timeline and organized the workspace.
+
+Challenges Faced
+
+- Choosing a simple yet realistic helicopter design.
+- Selecting lightweight but strong construction materials.
+
+Outcome
+
+A complete project plan, design sketch, and material list were prepared.
+
+---
+
+Part 2 – Frame Assembly (6 Hours)
+
+Objective
+
+Construct the main helicopter body and supporting frame.
+
+Activities Performed
+
+- Cut foam board according to measurements.
+- Built the cockpit and tail section.
+- Installed landing skids.
+- Mounted rotor supports.
+- Reinforced the frame for better strength.
+
+Challenges Faced
+
+- Maintaining body symmetry.
+- Keeping the model lightweight.
+
+Outcome
+
+A strong and realistic helicopter frame was completed.
+
+---
+
+Part 3 – Electronics Installation (6 Hours)
+
+Objective
+
+Install Arduino and electronic components.
+
+Activities Performed
+
+- Installed Arduino Uno.
+- Mounted the DC motor.
+- Connected LEDs and battery.
+- Completed all wiring.
+- Tested electrical connections.
+
+Challenges Faced
+
+- Organizing wires inside the helicopter body.
+- Balancing the weight of electronic components.
+
+Outcome
+
+All electronics were installed successfully.
+
+---
+
+Part 4 – Programming and Testing (6 Hours)
+
+Objective
+
+Upload Arduino code and verify hardware functionality.
+
+Activities Performed
+
+- Uploaded the Arduino program.
+- Tested the DC motor.
+- Verified LED operation.
+- Checked wiring using a multimeter.
+- Fixed minor connection issues and optimized the system.
+
+Challenges Faced
+
+- Rotor balancing.
+- Loose wire connections during testing.
+
+Outcome
+
+The helicopter operated successfully with a rotating rotor and working LEDs.
+
+---
+
+Part 5 – Final Assembly and Documentation (6 Hours)
+
+Objective
+
+Complete the helicopter model and prepare all documentation.
+
+Activities Performed
+
+- Completed final assembly.
+- Cleaned and finished the exterior.
+- Performed final functional testing.
+- Prepared the README, BOM, diagrams, and Arduino code.
+- Captured project photographs and organized the GitHub repository.
+
+Challenges Faced
+
+- Ensuring a professional finish.
+- Verifying all documentation before submission.
+
+Outcome
+
+The DIY Fighter Helicopter Model was successfully completed and prepared for demonstration and GitHub submission.
+
+---
+
+Skills Learned
+
+- Arduino Programming
+- Hardware Assembly
+- Electronics Wiring
+- DC Motor Control
+- Mechanical Design
+- Troubleshooting
+- Documentation
+- GitHub Repository Management
+
+---
+
+Conclusion
+
+The DIY Fighter Helicopter Model (Arduino-Based) was successfully designed, assembled, programmed, tested, and documented over 29 hours. This project improved my practical knowledge of Arduino programming, electronics, mechanical design, and technical documentation while demonstrating the complete development process of a hardware project.
